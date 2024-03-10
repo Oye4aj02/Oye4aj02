@@ -1,0 +1,3 @@
+-Create and access a PHP info file to verify stack operation.
+  I could not create file to verify PHP
+-Install Nginx: I was getting errors. It's in my screenshot folder
